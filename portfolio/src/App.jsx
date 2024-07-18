@@ -1,5 +1,6 @@
 import styles from "./App.module.css";
 import { About } from "./components/About/About";
+import { Experience } from "./components/Experience/Experience";
 import { Navbar } from "./components/Navbar/Navbar";
 import { Profile } from "./components/Profile/Profile";
 
@@ -9,6 +10,7 @@ function App() {
       <Navbar />
       <Profile />
       <About />
+      <Experience />
     </div>
   );
 }
