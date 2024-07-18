@@ -1,0 +1,21 @@
+[
+  {
+    "role": "Undergraduate",
+    "organisation": "Faculty of Information Technology, University of Moratuwa",
+    "startDate": "Aug, 2022",
+    "endDate": "Present",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "WSO2 ",
+    "startDate": "Jan, 2024",
+    "endDate": "Jun, 2024",
+    "experiences": [
+      "Worked on a project on Visitor Access Control",
+      "Full stack development with React, Ballerina and MySQL"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]
